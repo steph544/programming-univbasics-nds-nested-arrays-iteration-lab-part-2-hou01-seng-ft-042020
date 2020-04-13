@@ -18,7 +18,7 @@ require 'pry'
 # new_array 
 # end
 
-def find_greater_pair (array)
+def find_min_in_nested_arrays(array)
 new_array=[]
 counter=0 
 while counter < array.length do 
