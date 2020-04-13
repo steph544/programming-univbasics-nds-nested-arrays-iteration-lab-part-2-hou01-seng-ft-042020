@@ -24,6 +24,7 @@ counter=0
 while counter < array.length do 
   element_index=0 
   while element_index<array[counter].length do 
+    binding.pry 
   if array[counter][element_index] > array[counter][element_index +1]
     new_array << array[counter][element_index]
   elsif array[counter][element_index +1] > array[counter][element_index]
