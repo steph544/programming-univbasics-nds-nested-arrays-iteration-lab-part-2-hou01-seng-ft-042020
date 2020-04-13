@@ -32,7 +32,6 @@ while counter < array.length do
   element_index+=1 
 end 
 counter+=1 
-end 
 new_array
 end 
   
