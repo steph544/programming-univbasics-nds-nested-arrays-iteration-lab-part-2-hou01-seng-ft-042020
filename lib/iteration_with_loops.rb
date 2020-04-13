@@ -18,7 +18,7 @@ require 'pry'
 # new_array 
 # end
 
-find_greater_pair (array)
+find_greater_pair (src)
 new_array=[]
 counter=0 
 while counter < array.length do 
